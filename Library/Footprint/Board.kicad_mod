@@ -69,8 +69,8 @@
 		)
 	)
 	(fp_circle
-		(center 2.5 -29.5)
-		(end 4.75 -29.5)
+		(center 3.5 -28.5)
+		(end 6.5 -28.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -80,8 +80,8 @@
 		(uuid "609b09ff-3ab9-4b83-be76-3e138cc82d72")
 	)
 	(fp_circle
-		(center 2.5 -2.5)
-		(end 4.75 -2.5)
+		(center 3.5 -3.5)
+		(end 6.5 -3.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -91,8 +91,8 @@
 		(uuid "0b317763-7159-4d85-8d75-25f3bfac9002")
 	)
 	(fp_circle
-		(center 49.5 -29.5)
-		(end 51.75 -29.5)
+		(center 53.5 -28.5)
+		(end 56.5 -28.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -102,8 +102,8 @@
 		(uuid "97db601a-237d-4c2e-9450-4114b26c3259")
 	)
 	(fp_circle
-		(center 49.5 -2.5)
-		(end 51.75 -2.5)
+		(center 53.5 -3.5)
+		(end 56.5 -3.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -113,8 +113,8 @@
 		(uuid "2671adad-f7d1-44b3-b307-1b1b08a09e94")
 	)
 	(fp_circle
-		(center 2.5 -29.5)
-		(end 4.75 -29.5)
+		(center 3.5 -28.5)
+		(end 6.5 -28.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -124,8 +124,8 @@
 		(uuid "a7a949ce-1bd3-4ee1-beaf-3c04146132cc")
 	)
 	(fp_circle
-		(center 2.5 -2.5)
-		(end 4.75 -2.5)
+		(center 3.5 -3.5)
+		(end 6.5 -3.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -135,8 +135,8 @@
 		(uuid "b209d35a-b8ce-4401-a098-e0123ecf7120")
 	)
 	(fp_circle
-		(center 49.5 -29.5)
-		(end 51.75 -29.5)
+		(center 53.5 -28.5)
+		(end 56.5 -28.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -146,8 +146,8 @@
 		(uuid "6b1eee24-2252-4c06-9581-035e41b1a249")
 	)
 	(fp_circle
-		(center 49.5 -2.5)
-		(end 51.75 -2.5)
+		(center 53.5 -3.5)
+		(end 56.5 -3.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -158,7 +158,7 @@
 	)
 	(fp_rect
 		(start 0 -32)
-		(end 52 0)
+		(end 57 0)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -168,8 +168,8 @@
 		(uuid "410ab4f5-6447-4648-92dd-74a15a44bd91")
 	)
 	(fp_circle
-		(center 2.5 -29.5)
-		(end 4 -29.5)
+		(center 3.5 -28.5)
+		(end 5 -28.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -179,8 +179,8 @@
 		(uuid "6f64dd7e-5802-414d-813b-eaa27e473888")
 	)
 	(fp_circle
-		(center 2.5 -2.5)
-		(end 4 -2.5)
+		(center 3.5 -3.5)
+		(end 5 -3.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -190,8 +190,8 @@
 		(uuid "10b7bf66-ad7a-4854-9233-ac53b39d7314")
 	)
 	(fp_circle
-		(center 49.5 -29.5)
-		(end 51 -29.5)
+		(center 53.5 -28.5)
+		(end 55 -28.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -201,8 +201,8 @@
 		(uuid "5a247c81-a0d2-4373-9ccd-979b635e994e")
 	)
 	(fp_circle
-		(center 49.5 -2.5)
-		(end 51 -2.5)
+		(center 53.5 -3.5)
+		(end 55 -3.5)
 		(stroke
 			(width 0.05)
 			(type default)
