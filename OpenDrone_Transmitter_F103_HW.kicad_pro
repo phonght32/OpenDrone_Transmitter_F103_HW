@@ -181,7 +181,10 @@
         0.0,
         0.2,
         0.3,
-        0.4
+        0.4,
+        1.0,
+        1.5,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -489,7 +492,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "OpenDrone_Transmitter_F103_HW.step",
       "svg": "",
       "vrml": ""
     },
