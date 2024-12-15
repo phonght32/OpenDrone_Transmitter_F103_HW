@@ -21226,7 +21226,7 @@
 		)
 	)
 	(gr_text "3V3"
-		(at 168.3004 82.2706 0)
+		(at 168.151201 82.2706 0)
 		(layer "B.SilkS")
 		(uuid "473702bb-c85b-4517-844c-74c684915438")
 		(effects
@@ -21486,7 +21486,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 172.5676 83.4898 0)
+		(at 172.449999 83.4898 0)
 		(layer "B.SilkS")
 		(uuid "885cf55d-dc5d-4fc2-a9cc-00909a7875b2")
 		(effects
@@ -21550,8 +21550,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "A3"
-		(at 168.3512 84.7852 0)
+	(gr_text "A0"
+		(at 167.484534 84.7852 0)
 		(layer "B.SilkS")
 		(uuid "94dc754c-a991-438d-9f1a-d92409e98933")
 		(effects
@@ -21602,8 +21602,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "A4"
-		(at 172.5676 84.7598 0)
+	(gr_text "A1"
+		(at 171.583333 84.7598 0)
 		(layer "B.SilkS")
 		(uuid "9892e34c-e8dd-42e8-9bc2-57d755b25c41")
 		(effects
@@ -21720,7 +21720,7 @@
 		)
 	)
 	(gr_text "3V3"
-		(at 172.5168 82.2452 0)
+		(at 172.25 82.2452 0)
 		(layer "B.SilkS")
 		(uuid "b7281510-d597-4e0b-92e9-f804e2dfdd50")
 		(effects
@@ -21810,7 +21810,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "A1"
+	(gr_text "A3"
 		(at 218.6178 82.296 0)
 		(layer "B.SilkS")
 		(uuid "cb991177-0afc-44ab-9711-5eaab76b9f84")
@@ -21862,7 +21862,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "A0"
+	(gr_text "A2"
 		(at 222.8342 82.2706 0)
 		(layer "B.SilkS")
 		(uuid "e58836f5-f655-4c5a-8118-d4922cb6ecd5")
