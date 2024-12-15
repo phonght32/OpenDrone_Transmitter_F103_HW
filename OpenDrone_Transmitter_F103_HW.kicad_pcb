@@ -21904,15 +21904,15 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
-		(uuid "3177d04a-0f13-4683-8a64-38663c08774a")
+		(uuid "042b2b2a-5311-4d5f-9d7c-8473f1d38dcd")
 		(pts
-			(xy 167.0025 80.5675) (xy 167.0025 105.5675)
+			(xy 222.0025 75.5675) (xy 167.0025 75.5675)
 		)
-		(height 8.1763)
-		(gr_text "25.0000 mm"
-			(at 157.6762 93.0675 90)
+		(height 7.967499)
+		(gr_text "55.0000 mm"
+			(at 194.5025 66.450001 0)
 			(layer "User.1")
-			(uuid "3177d04a-0f13-4683-8a64-38663c08774a")
+			(uuid "042b2b2a-5311-4d5f-9d7c-8473f1d38dcd")
 			(effects
 				(font
 					(size 1 1)
@@ -21937,15 +21937,15 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
-		(uuid "6ff72a9f-a79d-4381-b760-1126dc00969c")
+		(uuid "1f7205b6-4a74-4204-87de-8deacb9f6bd9")
 		(pts
-			(xy 163.5025 77.0675) (xy 220.5025 77.0675)
+			(xy 167.0025 75.5675) (xy 167.0025 105.5675)
 		)
-		(height -9.4273)
-		(gr_text "57.0000 mm"
-			(at 192.0025 66.4902 0)
+		(height 9.1525)
+		(gr_text "30.0000 mm"
+			(at 156.7 90.5675 90)
 			(layer "User.1")
-			(uuid "6ff72a9f-a79d-4381-b760-1126dc00969c")
+			(uuid "1f7205b6-4a74-4204-87de-8deacb9f6bd9")
 			(effects
 				(font
 					(size 1 1)
@@ -21970,15 +21970,15 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
-		(uuid "8cb1ed9f-693c-4337-adbe-e43876e5957c")
+		(uuid "aaa16019-8476-487d-bb6b-02d4f58304a8")
 		(pts
-			(xy 217.0025 80.5675) (xy 167.0025 80.5675)
+			(xy 163.5025 72.0675) (xy 163.5025 109.0675)
 		)
-		(height 7.7711)
-		(gr_text "50.0000 mm"
-			(at 192.0025 71.6464 0)
+		(height 12.6025)
+		(gr_text "37.0000 mm"
+			(at 149.75 90.5675 90)
 			(layer "User.1")
-			(uuid "8cb1ed9f-693c-4337-adbe-e43876e5957c")
+			(uuid "aaa16019-8476-487d-bb6b-02d4f58304a8")
 			(effects
 				(font
 					(size 1 1)
@@ -22003,15 +22003,15 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
-		(uuid "cf68d7af-e041-4afc-a0c3-154845c6c9e3")
+		(uuid "be3fcceb-a7fd-4af0-8c41-e151b962f958")
 		(pts
-			(xy 163.5025 77.0675) (xy 163.5025 109.0675)
+			(xy 225.5025 72.0675) (xy 163.5025 72.0675)
 		)
-		(height 9.2991)
-		(gr_text "32.0000 mm"
-			(at 153.0534 93.0675 90)
+		(height 10.2175)
+		(gr_text "62.0000 mm"
+			(at 194.5025 60.7 0)
 			(layer "User.1")
-			(uuid "cf68d7af-e041-4afc-a0c3-154845c6c9e3")
+			(uuid "be3fcceb-a7fd-4af0-8c41-e151b962f958")
 			(effects
 				(font
 					(size 1 1)
@@ -28904,7 +28904,7 @@
 		)
 		(polygon
 			(pts
-				(xy 163.55 72.05) (xy 225.272 71.9738) (xy 225.3482 108.9054) (xy 163.3241 108.9307)
+				(xy 163.5 72.05) (xy 225.222 71.9738) (xy 225.2982 108.9054) (xy 163.2741 108.9307)
 			)
 		)
 		(filled_polygon
